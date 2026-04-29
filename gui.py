@@ -1,7 +1,6 @@
 # ============================================================
 # Full WhatsApp-like Main Chat Window
 
-###Sujood Elsayed####
 # ============================================================
 
 import customtkinter as ctk
