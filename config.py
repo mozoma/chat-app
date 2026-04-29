@@ -1,7 +1,6 @@
 # config.py — Application Configuration
 # ============================================================
 # Developer: Full Team
-###Hazem Essam
 # ============================================================
 
 import os
