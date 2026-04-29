@@ -3,7 +3,6 @@
 # Manages server connection, sending all message types,
 # auto-reconnect, and message dispatch callbacks.
 # ============================================================
-#            Seif Mohamed########
 
 import socket
 import threading
