@@ -1,7 +1,7 @@
 # 💬 WhatsApp-like Chat App — Python
 
 # A complete LAN + Remote chat application with file sharing, image sharing, and voice messages.
-1	 Mohamed Hazem	media_handler.py+ server.py+ media_handler.py+	database.py
+1	 Mohamed Hazem	media_handler.py+ server.py+ long.py+	database.py
 2	Seif Mohamed	client.py+ file_transfer.py+ private_msg.py
 3	Hazem Essam	config.py+ users_panel.py+rooms.py 
 4	Sujood Elsayed                      gui.py
