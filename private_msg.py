@@ -1,6 +1,5 @@
 # private_msg.py Seif Mohamed — Message Protocol + Private Messages
 # ============================================================
-# Packet helpers and private message routing  Seif Mohamed
 # ============================================================
 
 import json
